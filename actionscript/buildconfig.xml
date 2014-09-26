@@ -1,0 +1,20 @@
+<flex-config>
+   <compiler>
+   	<external-library-path>
+         <path-element>${air.sdk}/frameworks/libs/air/airglobal.swc</path-element>
+         <path-element>${air.sdk}/frameworks/libs/asc-support.swc</path-element>
+         <path-element>${air.sdk}/frameworks/libs/core.swc</path-element>
+         <path-element>${air.sdk}/frameworks/libs/air/aircore.swc</path-element>
+         <path-element>${air.sdk}/frameworks/libs/air/applicationupdater.swc</path-element>
+         <path-element>${air.sdk}/frameworks/libs/air/applicationupdater_ui.swc</path-element>
+         <path-element>${air.sdk}/frameworks/libs/air/servicemonitor.swc</path-element>
+      </external-library-path>
+      <source-path>
+         <path-element>${LIBRARY_LOC}/frameworks/ANEs/ANE_MyGamez/default/super</path-element>
+         <path-element>${LIBRARY_LOC}/frameworks/ANEs/ANE_MyGamez/actionscript/src</path-element>
+      </source-path>
+   </compiler>
+   <include-classes>
+      <class>com.sixminute.ane.ANEMyGamez</class>
+   </include-classes>
+</flex-config>

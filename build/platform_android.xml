@@ -1,0 +1,7 @@
+<platform xmlns="http://ns.adobe.com/air/extension/13.0">
+    <packagedDependencies> 
+	    <packagedDependency>MySDK_20017.jar</packagedDependency>
+	    <packagedDependency>CMBilling.jar</packagedDependency>
+	    <packagedDependency>libmegjb.so</packagedDependency>
+	</packagedDependencies>
+</platform>

@@ -1,0 +1,117 @@
+TANEGooglePlay
+v6
+r1
+cCheck dependencies
+cProcessPCH /Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/Build/Intermediates/PrecompiledHeaders/ANEGooglePlay-Prefix-fyjojxfpnqrbuddtlegaxxzborkr/ANEGooglePlay-Prefix.pch.pch GooglePlay/ANEGooglePlay-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ANEGooglePlay.build/Debug-iphonesimulator/ANEGooglePlay.build/Objects-normal/x86_64/GooglePlay.o /Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/GooglePlay/GooglePlay.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/Build/Debug-iphonesimulator/libANEGooglePlay.a normal x86_64
+cPBXCp GooglePlay/GooglePlay.h Build/Debug-iphonesimulator/include/ANEGooglePlay/GooglePlay.h
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c000000005347EF8A0000000000000198
+t1397223306
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531F99A500000000000003B4
+t1394579877
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531F99A9000000000000019E
+t1394579881
+s414
+
+N/Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/Build/Debug-iphonesimulator/include/ANEGooglePlay/GooglePlay.h
+t1406223721
+s502
+
+N/Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/Build/Debug-iphonesimulator/libANEGooglePlay.a
+t2
+s0
+
+N/Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/Build/Intermediates/ANEGooglePlay.build/Debug-iphonesimulator/ANEGooglePlay.build/Objects-normal/x86_64/ANEGooglePlay.LinkFileList
+c0000000053D1457000000000000000BB
+t1406223728
+s187
+
+N/Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/Build/Intermediates/ANEGooglePlay.build/Debug-iphonesimulator/ANEGooglePlay.build/Objects-normal/x86_64/GooglePlay.o
+t1406223728
+s16724
+
+N/Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/Build/Intermediates/PrecompiledHeaders/ANEGooglePlay-Prefix-fyjojxfpnqrbuddtlegaxxzborkr/ANEGooglePlay-Prefix.pch.pch
+t1406223728
+s3241716
+
+N/Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/GooglePlay/ANEGooglePlay-Prefix.pch
+c0000000053C7AC70000000000000047D
+t1405594736
+s1149
+
+N/Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/GooglePlay/GooglePlay.h
+c0000000053D140F200000000000001F6
+t1406222578
+s502
+
+N/Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/GooglePlay/GooglePlay.m
+c0000000053D1418200000000000014F4
+t1406222722
+s5364
+
+CBuild AST from /Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/GooglePlay/GooglePlay.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies5ef26bf07c81b941^9d9e6ff07c81b941^---0#1#1#--18"Check dependencies36"70D6C42A-69AA-4BDA-8203-3D809E20282E-
+
+CCompileC Build/Intermediates/ANEGooglePlay.build/Debug-iphonesimulator/ANEGooglePlay.build/Objects-normal/x86_64/GooglePlay.o /Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/GooglePlay/GooglePlay.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427916528.555449
+e427916528.574125
+r1
+xCompileC
+xBuild/Intermediates/ANEGooglePlay.build/Debug-iphonesimulator/ANEGooglePlay.build/Objects-normal/x86_64/GooglePlay.o
+x/Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/GooglePlay/GooglePlay.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/GooglePlay/GooglePlay.m
+d/Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/GooglePlay/GooglePlay.h
+d/Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/GooglePlay/FlashRuntimeExtensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/GooglePlay/GooglePlay.m219"CompileC Build/Intermediates/ANEGooglePlay.build/Debug-iphonesimulator/ANEGooglePlay.build/Objects-normal/x86_64/GooglePlay.o GooglePlay/GooglePlay.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerfe438ef07c81b941^3bfb92f07c81b941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/GooglePlay/GooglePlay.m0000000000000000^4194"CompileC Build/Intermediates/ANEGooglePlay.build/Debug-iphonesimulator/ANEGooglePlay.build/Objects-normal/x86_64/GooglePlay.o GooglePlay/GooglePlay.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.3 -iquote /Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/Build/Intermediates/ANEGooglePlay.build/Debug-iphonesimulator/ANEGooglePlay.build/ANEGooglePlay-generated-files.hmap -I/Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/Build/Intermediates/ANEGooglePlay.build/Debug-iphonesimulator/ANEGooglePlay.build/ANEGooglePlay-own-target-headers.hmap -I/Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/Build/Intermediates/ANEGooglePlay.build/Debug-iphonesimulator/ANEGooglePlay.build/ANEGooglePlay-all-target-headers.hmap -iquote /Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/Build/Intermediates/ANEGooglePlay.build/Debug-iphonesimulator/ANEGooglePlay.build/ANEGooglePlay-project-headers.hmap -iquote/Developer/sdks/AIRSDK/include -iquoteCrashlytics.Framework -I/Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/Build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/Build/Intermediates/ANEGooglePlay.build/Debug-iphonesimulator/ANEGooglePlay.build/DerivedSources/x86_64 -I/Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/Build/Intermediates/ANEGooglePlay.build/Debug-iphonesimulator/ANEGooglePlay.build/DerivedSources -F/Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/Build/Debug-iphonesimulator -F/Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay -include /Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/Build/Intermediates/PrecompiledHeaders/ANEGooglePlay-Prefix-fyjojxfpnqrbuddtlegaxxzborkr/ANEGooglePlay-Prefix.pch -MMD -MT dependencies -MF /Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/Build/Intermediates/ANEGooglePlay.build/Debug-iphonesimulator/ANEGooglePlay.build/Objects-normal/x86_64/GooglePlay.d --serialize-diagnostics /Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/Build/Intermediates/ANEGooglePlay.build/Debug-iphonesimulator/ANEGooglePlay.build/Objects-normal/x86_64/GooglePlay.dia -c /Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/GooglePlay/GooglePlay.m -o /Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/Build/Intermediates/ANEGooglePlay.build/Debug-iphonesimulator/ANEGooglePlay.build/Objects-normal/x86_64/GooglePlay.o36"3B75E90F-81ED-4D4F-A6E9-3B43276998A4-
+b7E2C1D51-5F95-4CD9-94B0-668F2623170C
+
+CLibtool /Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/Build/Debug-iphonesimulator/libANEGooglePlay.a normal x86_64
+s427916528.574626
+e427916528.578188
+r1
+xLibtool
+x/Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/Build/Debug-iphonesimulator/libANEGooglePlay.a
+xnormal
+xx86_64
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Libtool Build/Debug-iphonesimulator/libANEGooglePlay.a normal x86_6468"Libtool Build/Debug-iphonesimulator/libANEGooglePlay.a normal x86_645b2693f07c81b941^680794f07c81b941^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--1088"Libtool Build/Debug-iphonesimulator/libANEGooglePlay.a normal x86_64    cd /Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay    export IPHONEOS_DEPLOYMENT_TARGET=4.3    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only x86_64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/Build/Debug-iphonesimulator -filelist /Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/Build/Intermediates/ANEGooglePlay.build/Debug-iphonesimulator/ANEGooglePlay.build/Objects-normal/x86_64/ANEGooglePlay.LinkFileList -ObjC -o /Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/Build/Debug-iphonesimulator/libANEGooglePlay.a36"D45BD008-974F-4C5E-BFFE-A85C3589C4BE-
+b7E2C1D51-5F95-4CD9-94B0-668F2623170C
+
+CPBXCp GooglePlay/GooglePlay.h Build/Debug-iphonesimulator/include/ANEGooglePlay/GooglePlay.h
+r0
+
+CProcessPCH /Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/Build/Intermediates/PrecompiledHeaders/ANEGooglePlay-Prefix-fyjojxfpnqrbuddtlegaxxzborkr/ANEGooglePlay-Prefix.pch.pch GooglePlay/ANEGooglePlay-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427916528.436536
+e427916528.554920
+r1
+xProcessPCH
+x/Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/Build/Intermediates/PrecompiledHeaders/ANEGooglePlay-Prefix-fyjojxfpnqrbuddtlegaxxzborkr/ANEGooglePlay-Prefix.pch.pch
+xGooglePlay/ANEGooglePlay-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/GooglePlay/ANEGooglePlay-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Precompile GooglePlay/ANEGooglePlay-Prefix.pch234"ProcessPCH Build/Intermediates/PrecompiledHeaders/ANEGooglePlay-Prefix-fyjojxfpnqrbuddtlegaxxzborkr/ANEGooglePlay-Prefix.pch.pch GooglePlay/ANEGooglePlay-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerd4d76ff07c81b941^ae108ef07c81b941^---0#0#1#-19%DVTDocumentLocation2@112"file:///Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/GooglePlay/ANEGooglePlay-Prefix.pch0000000000000000^4034"ProcessPCH Build/Intermediates/PrecompiledHeaders/ANEGooglePlay-Prefix-fyjojxfpnqrbuddtlegaxxzborkr/ANEGooglePlay-Prefix.pch.pch GooglePlay/ANEGooglePlay-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.3 -iquote /Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/Build/Intermediates/ANEGooglePlay.build/Debug-iphonesimulator/ANEGooglePlay.build/ANEGooglePlay-generated-files.hmap -I/Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/Build/Intermediates/ANEGooglePlay.build/Debug-iphonesimulator/ANEGooglePlay.build/ANEGooglePlay-own-target-headers.hmap -I/Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/Build/Intermediates/ANEGooglePlay.build/Debug-iphonesimulator/ANEGooglePlay.build/ANEGooglePlay-all-target-headers.hmap -iquote /Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/Build/Intermediates/ANEGooglePlay.build/Debug-iphonesimulator/ANEGooglePlay.build/ANEGooglePlay-project-headers.hmap -iquote/Developer/sdks/AIRSDK/include -iquoteCrashlytics.Framework -I/Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/Build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/Build/Intermediates/ANEGooglePlay.build/Debug-iphonesimulator/ANEGooglePlay.build/DerivedSources/x86_64 -I/Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/Build/Intermediates/ANEGooglePlay.build/Debug-iphonesimulator/ANEGooglePlay.build/DerivedSources -F/Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/Build/Debug-iphonesimulator -F/Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay --serialize-diagnostics /Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/Build/Intermediates/PrecompiledHeaders/ANEGooglePlay-Prefix-fyjojxfpnqrbuddtlegaxxzborkr/ANEGooglePlay-Prefix.pch.dia -MMD -MT dependencies -MF /Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/Build/Intermediates/PrecompiledHeaders/ANEGooglePlay-Prefix-fyjojxfpnqrbuddtlegaxxzborkr/ANEGooglePlay-Prefix.pch.d -c /Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/GooglePlay/ANEGooglePlay-Prefix.pch -o /Developer/repos/git/frameworks/ANEs/ANE_GooglePlay/ios/ANEGooglePlay/Build/Intermediates/PrecompiledHeaders/ANEGooglePlay-Prefix-fyjojxfpnqrbuddtlegaxxzborkr/ANEGooglePlay-Prefix.pch.pch36"1963710C-C9E5-474B-80E3-838C389A0D50-
+b7E2C1D51-5F95-4CD9-94B0-668F2623170C
+
+CProcessPCH /Users/seaders/Library/Developer/Xcode/DerivedData/ANEGooglePlay-bticfsszvcikzwgipiaqjsktbhzp/Index/PrecompiledHeaders/ANEGooglePlay-Prefix-cgdxejcjfqguaxeykrnrkaohwxca_ast/ANEGooglePlay-Prefix.pch.pch GooglePlay/ANEGooglePlay-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+

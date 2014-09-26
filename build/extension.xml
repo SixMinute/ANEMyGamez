@@ -1,0 +1,23 @@
+<extension xmlns="http://ns.adobe.com/air/extension/13.0">
+	<id>com.sixminute.ane.ANEMyGamez</id>
+	<versionNumber>1</versionNumber>
+	<platforms>
+	    <platform name="iPhone-ARM">
+	        <applicationDeployment>
+	            <nativeLibrary>libANEMyGamez.a</nativeLibrary>
+	            <initializer>MyGamezExtInitializer</initializer>
+	            <finalizer>MyGamezExtFinalizer</finalizer>
+	        </applicationDeployment>
+	    </platform>
+		<platform name="Android-ARM">
+			<applicationDeployment>
+				<nativeLibrary>libANEMyGamez.jar</nativeLibrary>
+				<initializer>air.com.sixminute.anemygamez.ANEMyGamezExtension</initializer>
+				<finalizer>air.com.sixminute.anemygamez.ANEMyGamezExtension</finalizer>
+			</applicationDeployment>
+		</platform>
+	    <platform name="default"> 
+	        <applicationDeployment/> 
+	    </platform> 
+	</platforms>
+</extension>

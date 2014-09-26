@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<project name='ANE-Analytics' default='all'>
+
+	<!-- Config -->
+	<property file='build.config'/>
+
+	<!-- Config -->
+	<property file='${build_dir}.properties'/>
+
+	<!-- All -->
+	<target name='all' depends='prebuild,android,ios,default,actionscript,package' />
+	
+	<taskdef resource='net/sf/antcontrib/antlib.xml'
+    	classpath='${LIBRARY_LOC}/frameworks/ant-contrib/ant-contrib-1.0b3.jar'/>
+
+	<!-- iOS -->
+	<target name='prebuild' description='Cleanup task, before building anything'>
+		<delete dir='${temp_dir}' />
+	</target>
+
+	<!-- iOS -->
+	<target name='ios' description='Build iOS Library'>
+		<local name='build_dir' />
+		<property name='build_dir' value='${temp_dir}/ios/build'/>
+
+		<mkdir dir='${build_dir}'/>
+			
+		<exec executable='xcodebuild' failonerror='true' dir='${ios_dir}/${name}'>
+			<arg line='-project ${name}.xcodeproj'/>
+			<arg line='-target ${name}'/>
+		</exec>
+
+		<exec executable='xcodebuild' failonerror='true' dir='${ios_dir}/${name}'>
+			<arg line='-project ${name}.xcodeproj'/>
+			<arg line='-sdk ${ios.sdkversion}'/>
+			<arg line='-target ${name}'/>
+			<arg line='-configuration ${ios_build_config}'/>
+			<arg line='SYMROOT=${build_dir}'/>
+		</exec>
+		
+		<copy file='${ios_lib_path}' todir='${temp_dir}/ios' overwrite='true' />
+
+		<delete dir='${build_dir}'/>
+	</target>
+
+	<!-- Android -->
+	<target name='android' description='Build Android Library'>
+		<local name='build_dir' />
+		<property name='build_dir' value='${android_dir}/temp'/>
+		
+		<mkdir dir='${build_dir}/classes'/>
+		<javac srcdir='${android_dir}/src' destdir='${build_dir}/classes' includeantruntime='false' debug='true' debuglevel='lines'>
+			<classpath path='${android_dir}/custom_reses/Analytics_Custom/bin/classes' />
+			<classpath>
+				<pathelement location='${android.sdk.support}/android-support-v4.jar' />
+				<pathelement location='${android.sdk}/android.jar'/>
+				<pathelement location='${air.sdk}/lib/android/FlashRuntimeExtensions.jar'/>
+				<pathelement location='${android_jars_dir}/CMBilling.jar'/>
+				<pathelement location='${android_jars_dir}/MySDK_20017.jar'/>
+			</classpath>
+		</javac>
+
+		<mkdir dir='${temp_dir}/android/' />
+		
+		<jar basedir='${build_dir}/classes' destfile='${temp_dir}/android/lib${name}.jar'/>
+
+		<copy file='${android.sdk.support}/android-support-v4.jar' todir='${temp_dir}/android' />
+		<copy todir='${temp_dir}/android'>
+			<fileset dir='${android_jars_dir}'/>
+		</copy>
+		
+		<!--<if><available file='${android_reses_dir}' type='dir' /><then>
+			<copy todir='${temp_dir}/android'>
+				<fileset dir='${android_reses_dir}'/>
+			</copy>
+		</then></if>
+		<copy todir='${temp_dir}/android/analytics_custom_res'>
+			<fileset dir='${android_reses_dir}/Analytics_Custom/res'/>
+		</copy>-->
+		
+		<delete dir='${build_dir}'/>
+	</target>
+	
+	<!-- Default -->
+	<target name='default' description='Build Default library'>
+		<local name='buildconfig' />
+		<property name='buildconfig' value='${default_dir}/temp_buildconfig.xml'/>
+		<local name='output' />
+		<property name='output' value='${default_dir}/bin/${name}.swc'/>
+
+		<copy file='${default_dir}/buildconfig.xml' tofile='${buildconfig}' overwrite='true'>
+			<filterchain>
+			    <replaceregex pattern='\$\{(.*?)\}' replace='@\1@' flags='g' />
+				<filterreader classname='org.apache.tools.ant.filters.ReplaceTokens'>
+					<param type='propertiesfile' value='${basedir}/build.config'/>
+				</filterreader>
+			</filterchain>
+		</copy>
+		
+		<exec executable='${air.sdk}/bin/acompc${bin.ext}' failonerror='true'>
+			<arg line='-load-config ${buildconfig}'/>
+			<arg line='-output ${output}'/>
+		    <env key='JAVA_HOME' value='${java.home}' />
+		</exec>
+
+		<unzip src='${output}' dest='${default_dir}/bin' />
+		<copy file='${default_dir}/bin/library.swf' todir='${temp_dir}/default' overwrite='true'/>
+		<delete file='${buildconfig}' />
+	</target>
+
+	<!-- Actionscript -->
+	<target name='actionscript' description='Build SWC library'>
+		<local name='buildconfig' />
+		<property name='buildconfig' value='${actionscript_dir}/temp_buildconfig.xml'/>
+		<local name='output' />
+		<property name='output' value='${temp_dir}/swc/${name}.swc'/>
+		
+		<copy file='${actionscript_dir}/buildconfig.xml' tofile='${buildconfig}' overwrite='true'>
+			<filterchain>
+			    <replaceregex pattern='\$\{(.*?)\}' replace='@\1@' flags='g' />
+				<filterreader classname='org.apache.tools.ant.filters.ReplaceTokens'>
+					<param type='propertiesfile' value='${basedir}/build.config'/>
+				</filterreader>
+			</filterchain>
+		</copy>
+		
+		<exec executable='${air.sdk}/bin/acompc${bin.ext}' failonerror='true'>
+			<arg line='-load-config ${buildconfig}'/>
+			<arg line='-output ${output}'/>
+		    <env key='JAVA_HOME' value='${java.home}' />
+		</exec>
+
+		<unzip src='${output}' dest='${temp_dir}/swc/content' overwrite='true'/>
+		<copy file='${temp_dir}/swc/content/library.swf' todir='${temp_dir}/ios' overwrite='true'/>
+		<copy file='${temp_dir}/swc/content/library.swf' todir='${temp_dir}/android' overwrite='true'/>
+		
+		<delete file='${buildconfig}'/>
+		<delete dir='${temp_dir}/swc/content/'/>
+	</target>
+
+	<!-- Package -->
+	<target name='package' description='Create the extension package'>
+		<exec executable='${air.sdk}/bin/adt${bin.ext}' failonerror='true' dir='${temp_dir}'>
+			<arg value='-package'/>
+			<arg line='-target ane ${name}.ane ${build_dir}/extension.xml'/>
+			
+			<arg line='-swc swc/${name}.swc'/>
+			
+			<arg line='-platform Android-ARM '/>
+			<arg line='-platformoptions ${build_dir}/platform_android.xml'/>
+			<arg line='-C android/ .'/>
+			
+			<arg line='-platform iPhone-ARM '/>
+			<arg line='-C ios/ .'/>
+			
+			<arg line='-platform default'/>
+			<arg line='-C default/ .'/>
+		</exec>
+
+		<move file='${temp_dir}/${name}.ane' todir='../bin'/>
+		<copy file='../bin/${name}.ane' todir='../test/libs/'/>
+
+		<delete dir='${temp_dir}'/>
+	</target>
+
+</project>

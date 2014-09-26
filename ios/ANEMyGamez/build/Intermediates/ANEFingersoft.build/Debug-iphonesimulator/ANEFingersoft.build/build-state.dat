@@ -1,0 +1,187 @@
+TANEFingersoft
+v6
+r1
+cCheck dependencies
+cProcessPCH /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Intermediates/PrecompiledHeaders/ANEFingersoft-Prefix-fiuthgjsceepnfbhuicenlkpzixv/ANEFingersoft-Prefix.pch.pch Fingersoft/ANEFingersoft-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ANEFingersoft.build/Debug-iphonesimulator/ANEFingersoft.build/Objects-normal/x86_64/Fingersoft.o /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/Fingersoft.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Debug-iphonesimulator/libANEFingersoft.a normal x86_64
+cPBXCp Fingersoft/Fingersoft.h Build/Debug-iphonesimulator/include/ANEFingersoft/Fingersoft.h
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c000000005347EF8A0000000000000198
+t1397223306
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531F99A500000000000003B4
+t1394579877
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531F99A9000000000000019E
+t1394579881
+s414
+
+N/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Debug-iphonesimulator/include/ANEFingersoft/Fingersoft.h
+t1406297545
+s502
+
+N/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Debug-iphonesimulator/libANEFingersoft.a
+t1406297545
+s17144
+
+N/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Intermediates/ANEFingersoft.build/Debug-iphonesimulator/ANEFingersoft.build/Objects-normal/x86_64/ANEFingersoft.LinkFileList
+c0000000053D2658D00000000000000BB
+t1406297485
+s187
+
+N/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Intermediates/ANEFingersoft.build/Debug-iphonesimulator/ANEFingersoft.build/Objects-normal/x86_64/Fingersoft.o
+t1406297545
+s16724
+
+N/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Intermediates/PrecompiledHeaders/ANEFingersoft-Prefix-brcbqzaarzzygvhewiocimcbimwc/ANEFingersoft-Prefix.pch.pch
+t2
+s0
+
+N/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Intermediates/PrecompiledHeaders/ANEFingersoft-Prefix-fiuthgjsceepnfbhuicenlkpzixv/ANEFingersoft-Prefix.pch.pch
+t1406297545
+s3241712
+
+N/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/ANEFingersoft-Prefix.pch
+c0000000053C7AC70000000000000047D
+t1405594736
+s1149
+
+N/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/Fingersoft.h
+c0000000053D264CD00000000000001F6
+t1406297293
+s502
+
+N/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/Fingersoft.m
+c0000000053D264DB00000000000014F4
+t1406297307
+s5364
+
+N/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/FlashRuntimeExtensions.h
+c0000000050C8575D0000000000004D54
+t1355306845
+s19796
+
+N/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/GooglePlay/ANEFingersoft-Prefix.pch
+c00000000000000000000000000000000
+t2
+s0
+
+CBuild AST from /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/Fingersoft.m
+r0
+
+CBuild AST from /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/GooglePlay/Fingersoft.m
+r0
+
+CBuild AST from /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/GooglePlay/GooglePlay.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesb7982b4a9d82b941^9dd42b4a9d82b941^---0#1#1#--18"Check dependencies36"D51FD2DF-700F-476C-9642-B6CA2FEB558E-
+
+CCompileC Build/Intermediates/ANEFingersoft.build/Debug-iphonesimulator/ANEFingersoft.build/Objects-normal/x86_64/Fingersoft.o /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/Fingersoft.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427990345.584327
+e427990345.662735
+r1
+xCompileC
+xBuild/Intermediates/ANEFingersoft.build/Debug-iphonesimulator/ANEFingersoft.build/Objects-normal/x86_64/Fingersoft.o
+x/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/Fingersoft.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/Fingersoft.m
+d/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/Fingersoft.h
+d/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/FlashRuntimeExtensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/Fingersoft.m219"CompileC Build/Intermediates/ANEFingersoft.build/Debug-iphonesimulator/ANEFingersoft.build/Objects-normal/x86_64/Fingersoft.o Fingersoft/Fingersoft.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler4ca795499d82b941^070cda499d82b941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/Fingersoft.m0000000000000000^4194"CompileC Build/Intermediates/ANEFingersoft.build/Debug-iphonesimulator/ANEFingersoft.build/Objects-normal/x86_64/Fingersoft.o Fingersoft/Fingersoft.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.3 -iquote /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Intermediates/ANEFingersoft.build/Debug-iphonesimulator/ANEFingersoft.build/ANEFingersoft-generated-files.hmap -I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Intermediates/ANEFingersoft.build/Debug-iphonesimulator/ANEFingersoft.build/ANEFingersoft-own-target-headers.hmap -I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Intermediates/ANEFingersoft.build/Debug-iphonesimulator/ANEFingersoft.build/ANEFingersoft-all-target-headers.hmap -iquote /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Intermediates/ANEFingersoft.build/Debug-iphonesimulator/ANEFingersoft.build/ANEFingersoft-project-headers.hmap -iquote/Developer/sdks/AIRSDK/include -iquoteCrashlytics.Framework -I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Intermediates/ANEFingersoft.build/Debug-iphonesimulator/ANEFingersoft.build/DerivedSources/x86_64 -I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Intermediates/ANEFingersoft.build/Debug-iphonesimulator/ANEFingersoft.build/DerivedSources -F/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Debug-iphonesimulator -F/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft -include /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Intermediates/PrecompiledHeaders/ANEFingersoft-Prefix-fiuthgjsceepnfbhuicenlkpzixv/ANEFingersoft-Prefix.pch -MMD -MT dependencies -MF /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Intermediates/ANEFingersoft.build/Debug-iphonesimulator/ANEFingersoft.build/Objects-normal/x86_64/Fingersoft.d --serialize-diagnostics /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Intermediates/ANEFingersoft.build/Debug-iphonesimulator/ANEFingersoft.build/Objects-normal/x86_64/Fingersoft.dia -c /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/Fingersoft.m -o /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Intermediates/ANEFingersoft.build/Debug-iphonesimulator/ANEFingersoft.build/Objects-normal/x86_64/Fingersoft.o36"125733B4-389E-44E3-A37C-6B88D945677C-
+b5B321A53-A316-4991-9CB0-8A7654EAE7B0
+
+CCompileC Build/Intermediates/ANEFingersoft.build/Debug-iphonesimulator/ANEFingersoft.build/Objects-normal/x86_64/Fingersoft.o /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/GooglePlay/Fingersoft.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/ANEFingersoft.build/Debug-iphonesimulator/ANEFingersoft.build/Objects-normal/x86_64/GooglePlay.o /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/GooglePlay/GooglePlay.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CLibtool /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Debug-iphonesimulator/libANEFingersoft.a normal x86_64
+s427990345.663197
+e427990345.670069
+r1
+xLibtool
+x/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Debug-iphonesimulator/libANEFingersoft.a
+xnormal
+xx86_64
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Libtool Build/Debug-iphonesimulator/libANEFingersoft.a normal x86_6468"Libtool Build/Debug-iphonesimulator/libANEFingersoft.a normal x86_6456d3a9499d82b941^e010da499d82b941^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--1088"Libtool Build/Debug-iphonesimulator/libANEFingersoft.a normal x86_64    cd /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft    export IPHONEOS_DEPLOYMENT_TARGET=4.3    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only x86_64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Debug-iphonesimulator -filelist /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Intermediates/ANEFingersoft.build/Debug-iphonesimulator/ANEFingersoft.build/Objects-normal/x86_64/ANEFingersoft.LinkFileList -ObjC -o /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Debug-iphonesimulator/libANEFingersoft.a36"DD7D9112-6B6B-4F22-AFCC-53EECD9D00DD-
+b5B321A53-A316-4991-9CB0-8A7654EAE7B0
+
+CPBXCp Fingersoft/Fingersoft.h Build/Debug-iphonesimulator/include/ANEFingersoft/Fingersoft.h
+s427990345.670438
+e427990345.671169
+r1
+xPBXCp
+xFingersoft/Fingersoft.h
+xBuild/Debug-iphonesimulator/include/ANEFingersoft/Fingersoft.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy Build/Debug-iphonesimulator/include/ANEFingersoft/Fingersoft.h92"PBXCp Fingersoft/Fingersoft.h Build/Debug-iphonesimulator/include/ANEFingersoft/Fingersoft.h9fadab499d82b941^2714da499d82b941^---0#0#1#-19%DVTDocumentLocation2@139"file:///Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Debug-iphonesimulator/include/ANEFingersoft/Fingersoft.h0034fc4fddffdf42^706"PBXCp Fingersoft/Fingersoft.h Build/Debug-iphonesimulator/include/ANEFingersoft/Fingersoft.h    cd /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/Fingersoft.h /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Debug-iphonesimulator/include/ANEFingersoft36"79AFB7CE-7559-47F3-AB41-5B303E298D1F-
+b5B321A53-A316-4991-9CB0-8A7654EAE7B0
+
+CPBXCp GooglePlay/Fingersoft.h Build/Debug-iphonesimulator/include/ANEFingersoft/Fingersoft.h
+r0
+
+CPBXCp GooglePlay/GooglePlay.h Build/Debug-iphonesimulator/include/ANEFingersoft/GooglePlay.h
+r0
+
+CProcessPCH /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Intermediates/PrecompiledHeaders/ANEFingersoft-Prefix-brcbqzaarzzygvhewiocimcbimwc/ANEFingersoft-Prefix.pch.pch GooglePlay/ANEFingersoft-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427990285.314550
+e427990285.345973
+r0
+xProcessPCH
+x/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Intermediates/PrecompiledHeaders/ANEFingersoft-Prefix-brcbqzaarzzygvhewiocimcbimwc/ANEFingersoft-Prefix.pch.pch
+xGooglePlay/ANEFingersoft-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: error: no such file or directory: '/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/GooglePlay/ANEFingersoft-Prefix.pch'
+oclang: error: no input files
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Precompile GooglePlay/ANEFingersoft-Prefix.pch234"ProcessPCH Build/Intermediates/PrecompiledHeaders/ANEFingersoft-Prefix-brcbqzaarzzygvhewiocimcbimwc/ANEFingersoft-Prefix.pch.pch GooglePlay/ANEFingersoft-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler8198500d9d82b941^4792580d9d82b941^-303"clang: error: no such file or directory: '/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/GooglePlay/ANEFingersoft-Prefix.pch'clang: error: no input filesCommand /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 11(21%IDEActivityLogMessage2@124"Command /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 1-427990285#18446744073709551615#0#-2#--20"Apple LLVM 5.1 Error--0#0#1#-19%DVTDocumentLocation3@112"file:///Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/GooglePlay/ANEFingersoft-Prefix.pch0034fc4fddffdf42^4034"ProcessPCH Build/Intermediates/PrecompiledHeaders/ANEFingersoft-Prefix-brcbqzaarzzygvhewiocimcbimwc/ANEFingersoft-Prefix.pch.pch GooglePlay/ANEFingersoft-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.3 -iquote /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Intermediates/ANEFingersoft.build/Debug-iphonesimulator/ANEFingersoft.build/ANEFingersoft-generated-files.hmap -I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Intermediates/ANEFingersoft.build/Debug-iphonesimulator/ANEFingersoft.build/ANEFingersoft-own-target-headers.hmap -I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Intermediates/ANEFingersoft.build/Debug-iphonesimulator/ANEFingersoft.build/ANEFingersoft-all-target-headers.hmap -iquote /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Intermediates/ANEFingersoft.build/Debug-iphonesimulator/ANEFingersoft.build/ANEFingersoft-project-headers.hmap -iquote/Developer/sdks/AIRSDK/include -iquoteCrashlytics.Framework -I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Intermediates/ANEFingersoft.build/Debug-iphonesimulator/ANEFingersoft.build/DerivedSources/x86_64 -I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Intermediates/ANEFingersoft.build/Debug-iphonesimulator/ANEFingersoft.build/DerivedSources -F/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Debug-iphonesimulator -F/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft --serialize-diagnostics /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Intermediates/PrecompiledHeaders/ANEFingersoft-Prefix-brcbqzaarzzygvhewiocimcbimwc/ANEFingersoft-Prefix.pch.dia -MMD -MT dependencies -MF /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Intermediates/PrecompiledHeaders/ANEFingersoft-Prefix-brcbqzaarzzygvhewiocimcbimwc/ANEFingersoft-Prefix.pch.d -c /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/GooglePlay/ANEFingersoft-Prefix.pch -o /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Intermediates/PrecompiledHeaders/ANEFingersoft-Prefix-brcbqzaarzzygvhewiocimcbimwc/ANEFingersoft-Prefix.pch.pch36"C8CA0483-137D-4418-91EE-831B97B9C534-
+b8F8780E5-54B6-4260-A778-FC1694E08A94
+
+CProcessPCH /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Intermediates/PrecompiledHeaders/ANEFingersoft-Prefix-fiuthgjsceepnfbhuicenlkpzixv/ANEFingersoft-Prefix.pch.pch Fingersoft/ANEFingersoft-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427990345.400160
+e427990345.583788
+r1
+xProcessPCH
+x/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Intermediates/PrecompiledHeaders/ANEFingersoft-Prefix-fiuthgjsceepnfbhuicenlkpzixv/ANEFingersoft-Prefix.pch.pch
+xFingersoft/ANEFingersoft-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/ANEFingersoft-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Precompile Fingersoft/ANEFingersoft-Prefix.pch234"ProcessPCH Build/Intermediates/PrecompiledHeaders/ANEFingersoft-Prefix-fiuthgjsceepnfbhuicenlkpzixv/ANEFingersoft-Prefix.pch.pch Fingersoft/ANEFingersoft-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilere88266499d82b941^b806da499d82b941^---0#0#1#-19%DVTDocumentLocation2@112"file:///Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/ANEFingersoft-Prefix.pch0000000000000000^4034"ProcessPCH Build/Intermediates/PrecompiledHeaders/ANEFingersoft-Prefix-fiuthgjsceepnfbhuicenlkpzixv/ANEFingersoft-Prefix.pch.pch Fingersoft/ANEFingersoft-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.3 -iquote /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Intermediates/ANEFingersoft.build/Debug-iphonesimulator/ANEFingersoft.build/ANEFingersoft-generated-files.hmap -I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Intermediates/ANEFingersoft.build/Debug-iphonesimulator/ANEFingersoft.build/ANEFingersoft-own-target-headers.hmap -I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Intermediates/ANEFingersoft.build/Debug-iphonesimulator/ANEFingersoft.build/ANEFingersoft-all-target-headers.hmap -iquote /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Intermediates/ANEFingersoft.build/Debug-iphonesimulator/ANEFingersoft.build/ANEFingersoft-project-headers.hmap -iquote/Developer/sdks/AIRSDK/include -iquoteCrashlytics.Framework -I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Intermediates/ANEFingersoft.build/Debug-iphonesimulator/ANEFingersoft.build/DerivedSources/x86_64 -I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Intermediates/ANEFingersoft.build/Debug-iphonesimulator/ANEFingersoft.build/DerivedSources -F/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Debug-iphonesimulator -F/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft --serialize-diagnostics /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Intermediates/PrecompiledHeaders/ANEFingersoft-Prefix-fiuthgjsceepnfbhuicenlkpzixv/ANEFingersoft-Prefix.pch.dia -MMD -MT dependencies -MF /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Intermediates/PrecompiledHeaders/ANEFingersoft-Prefix-fiuthgjsceepnfbhuicenlkpzixv/ANEFingersoft-Prefix.pch.d -c /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/ANEFingersoft-Prefix.pch -o /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Intermediates/PrecompiledHeaders/ANEFingersoft-Prefix-fiuthgjsceepnfbhuicenlkpzixv/ANEFingersoft-Prefix.pch.pch36"F3DACA14-F40F-49A0-AAC1-6AFC0B85C7F4-
+b5B321A53-A316-4991-9CB0-8A7654EAE7B0
+
+CProcessPCH /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Intermediates/PrecompiledHeaders/ANEFingersoft-Prefix-fiuthgjsceepnfbhuicenlkpzixv/ANEFingersoft-Prefix.pch.pch GooglePlay/ANEFingersoft-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Intermediates/PrecompiledHeaders/ANEGooglePlay-Prefix-etqwhwxrdzcloahdeodnnrplhtck/ANEGooglePlay-Prefix.pch.pch GooglePlay/ANEGooglePlay-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /Users/seaders/Library/Developer/Xcode/DerivedData/ANEFingersoft-fkeivurrydioiibajyvhdpwwkjgu/Index/PrecompiledHeaders/ANEFingersoft-Prefix-cduyzlqeskilunfmjzbhbmqhmzvh_ast/ANEFingersoft-Prefix.pch.pch GooglePlay/ANEFingersoft-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/seaders/Library/Developer/Xcode/DerivedData/ANEFingersoft-fkeivurrydioiibajyvhdpwwkjgu/Index/PrecompiledHeaders/ANEFingersoft-Prefix-gafizdgbefbbheehxipjawrwscgc_ast/ANEFingersoft-Prefix.pch.pch Fingersoft/ANEFingersoft-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/seaders/Library/Developer/Xcode/DerivedData/ANEFingersoft-fkeivurrydioiibajyvhdpwwkjgu/Index/PrecompiledHeaders/ANEFingersoft-Prefix-gafizdgbefbbheehxipjawrwscgc_ast/ANEFingersoft-Prefix.pch.pch GooglePlay/ANEFingersoft-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/seaders/Library/Developer/Xcode/DerivedData/ANEFingersoft-fkeivurrydioiibajyvhdpwwkjgu/Index/PrecompiledHeaders/ANEGooglePlay-Prefix-digslejruayksyaafbydcbwapbel_ast/ANEGooglePlay-Prefix.pch.pch GooglePlay/ANEGooglePlay-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+

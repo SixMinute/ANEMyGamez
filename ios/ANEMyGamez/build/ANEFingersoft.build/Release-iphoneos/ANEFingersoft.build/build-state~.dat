@@ -1,0 +1,262 @@
+TANEFingersoft
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/p4/yvrhr8x138dbcz1wf62vm63w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ANEFingersoft-Prefix-dbanxryzxgcrwtcmkmtrzezolypc/ANEFingersoft-Prefix.pch.pch Fingersoft/ANEFingersoft-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/p4/yvrhr8x138dbcz1wf62vm63w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ANEFingersoft-Prefix-awoaegfcngpdezgwumvweqjtzpat/ANEFingersoft-Prefix.pch.pch Fingersoft/ANEFingersoft-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/p4/yvrhr8x138dbcz1wf62vm63w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ANEFingersoft-Prefix-cymgpaoufepxmtbwkipeqfcxqedb/ANEFingersoft-Prefix.pch.pch Fingersoft/ANEFingersoft-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/armv7/Fingersoft.o /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/Fingersoft.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/armv7s/Fingersoft.o /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/Fingersoft.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/arm64/Fingersoft.o /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/Fingersoft.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/armv7/libANEFingersoft.a normal armv7
+cLibtool /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/armv7s/libANEFingersoft.a normal armv7s
+cLibtool /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/arm64/libANEFingersoft.a normal arm64
+cCreateUniversalBinary /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/Release-iphoneos/libANEFingersoft.a normal armv7\ armv7s\ arm64
+cPBXCp Fingersoft/Fingersoft.h build/Release-iphoneos/include/ANEFingersoft/Fingersoft.h
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c000000005347EF7E0000000000000132
+t1397223294
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c00000000531F999A000000000000036B
+t1394579866
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531F999A000000000000019E
+t1394579866
+s414
+
+N/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/ANEFingersoft-Prefix.pch
+c0000000053C7AC70000000000000047D
+t1405594736
+s1149
+
+N/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/Fingersoft.h
+c0000000053D264CD00000000000001F6
+t1406297293
+s502
+
+N/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/Fingersoft.m
+c0000000053D266780000000000001066
+t1406297720
+s4198
+
+N/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/arm64/ANEFingersoft.LinkFileList
+c0000000053D2668E00000000000000A7
+t1406297742
+s167
+
+N/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/arm64/Fingersoft.o
+t1406297742
+s15536
+
+N/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/arm64/libANEFingersoft.a
+t1406297742
+s15952
+
+N/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/armv7/ANEFingersoft.LinkFileList
+c0000000053D2668E00000000000000A7
+t1406297742
+s167
+
+N/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/armv7/Fingersoft.o
+t1406297742
+s13120
+
+N/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/armv7/libANEFingersoft.a
+t1406297742
+s13536
+
+N/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/armv7s/ANEFingersoft.LinkFileList
+c0000000053D2668E00000000000000A8
+t1406297742
+s168
+
+N/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/armv7s/Fingersoft.o
+t1406297742
+s13116
+
+N/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/armv7s/libANEFingersoft.a
+t1406297742
+s13536
+
+N/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/Release-iphoneos/include/ANEFingersoft/Fingersoft.h
+t2
+s0
+
+N/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/Release-iphoneos/libANEFingersoft.a
+t2
+s0
+
+N/var/folders/p4/yvrhr8x138dbcz1wf62vm63w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ANEFingersoft-Prefix-awoaegfcngpdezgwumvweqjtzpat/ANEFingersoft-Prefix.pch.pch
+t1406297742
+s3179452
+
+N/var/folders/p4/yvrhr8x138dbcz1wf62vm63w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ANEFingersoft-Prefix-cymgpaoufepxmtbwkipeqfcxqedb/ANEFingersoft-Prefix.pch.pch
+t1406297742
+s3196752
+
+N/var/folders/p4/yvrhr8x138dbcz1wf62vm63w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ANEFingersoft-Prefix-dbanxryzxgcrwtcmkmtrzezolypc/ANEFingersoft-Prefix.pch.pch
+t1406297742
+s3179292
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies62baf80d9e82b941^276c0f0e9e82b941^---0#1#1#--18"Check dependencies36"522D44F2-F4E5-4467-913A-68F939C0FDEC-
+
+CCompileC build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/arm64/Fingersoft.o /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/Fingersoft.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427990542.283432
+e427990542.367128
+r1
+xCompileC
+xbuild/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/arm64/Fingersoft.o
+x/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/Fingersoft.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/Fingersoft.m
+d/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/Fingersoft.h
+d/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/FlashRuntimeExtensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/Fingersoft.m198"CompileC build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/arm64/Fingersoft.o Fingersoft/Fingersoft.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilerb79b480e9e82b941^4cfc5d0e9e82b941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/Fingersoft.m0000000000000000^3890"CompileC build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/arm64/Fingersoft.o Fingersoft/Fingersoft.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/ANEFingersoft-generated-files.hmap -I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/ANEFingersoft-own-target-headers.hmap -I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/ANEFingersoft-all-target-headers.hmap -iquote /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/ANEFingersoft-project-headers.hmap -iquote/Developer/sdks/AIRSDK/include -iquoteCrashlytics.Framework -I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/DerivedSources/arm64 -I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/DerivedSources -F/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/Release-iphoneos -F/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft -include /var/folders/p4/yvrhr8x138dbcz1wf62vm63w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ANEFingersoft-Prefix-cymgpaoufepxmtbwkipeqfcxqedb/ANEFingersoft-Prefix.pch -MMD -MT dependencies -MF /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/arm64/Fingersoft.d --serialize-diagnostics /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/arm64/Fingersoft.dia -c /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/Fingersoft.m -o /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/arm64/Fingersoft.o36"6B78BB15-D695-4EFC-B553-3DE91DB57BC0-
+bC86B336D-50B7-4B98-8ACE-A066106B8D0F
+
+CCompileC build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/armv7/Fingersoft.o /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/Fingersoft.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427990542.283034
+e427990542.368863
+r1
+xCompileC
+xbuild/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/armv7/Fingersoft.o
+x/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/Fingersoft.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/Fingersoft.m
+d/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/Fingersoft.h
+d/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/FlashRuntimeExtensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/Fingersoft.m198"CompileC build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/armv7/Fingersoft.o Fingersoft/Fingersoft.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler2387480e9e82b941^8b6d5e0e9e82b941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/Fingersoft.m0000000000000000^3893"CompileC build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/armv7/Fingersoft.o Fingersoft/Fingersoft.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/ANEFingersoft-generated-files.hmap -I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/ANEFingersoft-own-target-headers.hmap -I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/ANEFingersoft-all-target-headers.hmap -iquote /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/ANEFingersoft-project-headers.hmap -iquote/Developer/sdks/AIRSDK/include -iquoteCrashlytics.Framework -I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/DerivedSources/armv7 -I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/DerivedSources -F/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/Release-iphoneos -F/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft -include /var/folders/p4/yvrhr8x138dbcz1wf62vm63w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ANEFingersoft-Prefix-dbanxryzxgcrwtcmkmtrzezolypc/ANEFingersoft-Prefix.pch -MMD -MT dependencies -MF /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/armv7/Fingersoft.d --serialize-diagnostics /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/armv7/Fingersoft.dia -c /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/Fingersoft.m -o /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/armv7/Fingersoft.o36"4952129D-D3AB-4A0D-B992-F3E3449B66E0-
+bC86B336D-50B7-4B98-8ACE-A066106B8D0F
+
+CCompileC build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/armv7s/Fingersoft.o /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/Fingersoft.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427990542.283253
+e427990542.368667
+r1
+xCompileC
+xbuild/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/armv7s/Fingersoft.o
+x/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/Fingersoft.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/Fingersoft.m
+d/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/Fingersoft.h
+d/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/FlashRuntimeExtensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/Fingersoft.m200"CompileC build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/armv7s/Fingersoft.o Fingersoft/Fingersoft.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilere694480e9e82b941^9e615e0e9e82b941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/Fingersoft.m0000000000000000^3900"CompileC build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/armv7s/Fingersoft.o Fingersoft/Fingersoft.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/ANEFingersoft-generated-files.hmap -I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/ANEFingersoft-own-target-headers.hmap -I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/ANEFingersoft-all-target-headers.hmap -iquote /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/ANEFingersoft-project-headers.hmap -iquote/Developer/sdks/AIRSDK/include -iquoteCrashlytics.Framework -I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/DerivedSources/armv7s -I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/DerivedSources -F/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/Release-iphoneos -F/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft -include /var/folders/p4/yvrhr8x138dbcz1wf62vm63w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ANEFingersoft-Prefix-awoaegfcngpdezgwumvweqjtzpat/ANEFingersoft-Prefix.pch -MMD -MT dependencies -MF /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/armv7s/Fingersoft.d --serialize-diagnostics /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/armv7s/Fingersoft.dia -c /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/Fingersoft.m -o /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/armv7s/Fingersoft.o36"1ED499FC-3687-4E70-9F3D-9E9DE6627822-
+bC86B336D-50B7-4B98-8ACE-A066106B8D0F
+
+CCreateUniversalBinary /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/Release-iphoneos/libANEFingersoft.a normal armv7\ armv7s\ arm64
+s427990542.375642
+e427990542.380581
+r1
+xCreateUniversalBinary
+x/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/Release-iphoneos/libANEFingersoft.a
+xnormal
+xarmv7 armv7s arm64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection135"Create universal binary /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/Release-iphoneos/libANEFingersoft.a91"CreateUniversalBinary build/Release-iphoneos/libANEFingersoft.a normal armv7\ armv7s\ arm64b936600e9e82b941^006f610e9e82b941^---0#0#1#-19%DVTDocumentLocation2@118"file:///Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/Release-iphoneos/libANEFingersoft.a0034fc4fddffdf42^1114"CreateUniversalBinary build/Release-iphoneos/libANEFingersoft.a normal armv7\ armv7s\ arm64    cd /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/armv7/libANEFingersoft.a /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/armv7s/libANEFingersoft.a /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/arm64/libANEFingersoft.a -o /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/Release-iphoneos/libANEFingersoft.a36"98F175A4-5F8E-4FB1-8C69-7FE1C02BA266-
+bC86B336D-50B7-4B98-8ACE-A066106B8D0F
+
+CLibtool /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/arm64/libANEFingersoft.a normal arm64
+s427990542.369713
+e427990542.375143
+r1
+xLibtool
+x/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/arm64/libANEFingersoft.a
+xnormal
+xarm64
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Libtool build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/arm64/libANEFingersoft.a normal arm64123"Libtool build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/arm64/libANEFingersoft.a normal arm64eab05e0e9e82b941^221b600e9e82b941^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--1152"Libtool build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/arm64/libANEFingersoft.a normal arm64    cd /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft    export IPHONEOS_DEPLOYMENT_TARGET=4.3    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only arm64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/Release-iphoneos -filelist /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/arm64/ANEFingersoft.LinkFileList -ObjC -o /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/arm64/libANEFingersoft.a36"6BE1A2DE-10E6-45B2-BCF7-8AF26CBBE428-
+bC86B336D-50B7-4B98-8ACE-A066106B8D0F
+
+CLibtool /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/armv7/libANEFingersoft.a normal armv7
+s427990542.369352
+e427990542.374873
+r1
+xLibtool
+x/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/armv7/libANEFingersoft.a
+xnormal
+xarmv7
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Libtool build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/armv7/libANEFingersoft.a normal armv7123"Libtool build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/armv7/libANEFingersoft.a normal armv738a35e0e9e82b941^390e600e9e82b941^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--1152"Libtool build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/armv7/libANEFingersoft.a normal armv7    cd /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft    export IPHONEOS_DEPLOYMENT_TARGET=4.3    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/Release-iphoneos -filelist /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/armv7/ANEFingersoft.LinkFileList -ObjC -o /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/armv7/libANEFingersoft.a36"CFB2DDFC-370F-4B5A-9789-3895B712A368-
+bC86B336D-50B7-4B98-8ACE-A066106B8D0F
+
+CLibtool /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/armv7s/libANEFingersoft.a normal armv7s
+s427990542.369540
+e427990542.374898
+r1
+xLibtool
+x/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/armv7s/libANEFingersoft.a
+xnormal
+xarmv7s
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Libtool build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/armv7s/libANEFingersoft.a normal armv7s125"Libtool build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/armv7s/libANEFingersoft.a normal armv7sfda45e0e9e82b941^e415600e9e82b941^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--1157"Libtool build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/armv7s/libANEFingersoft.a normal armv7s    cd /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft    export IPHONEOS_DEPLOYMENT_TARGET=4.3    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7s -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/Release-iphoneos -filelist /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/armv7s/ANEFingersoft.LinkFileList -ObjC -o /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/Objects-normal/armv7s/libANEFingersoft.a36"FA8A9F46-1FDE-4935-911F-63563A1D22E5-
+bC86B336D-50B7-4B98-8ACE-A066106B8D0F
+
+CPBXCp Fingersoft/Fingersoft.h build/Release-iphoneos/include/ANEFingersoft/Fingersoft.h
+s427990542.380880
+e427990542.381693
+r1
+xPBXCp
+xFingersoft/Fingersoft.h
+xbuild/Release-iphoneos/include/ANEFingersoft/Fingersoft.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy build/Release-iphoneos/include/ANEFingersoft/Fingersoft.h87"PBXCp Fingersoft/Fingersoft.h build/Release-iphoneos/include/ANEFingersoft/Fingersoft.h438e610e9e82b941^bfb7610e9e82b941^---0#0#1#-19%DVTDocumentLocation2@134"file:///Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/Release-iphoneos/include/ANEFingersoft/Fingersoft.h0034fc4fddffdf42^815"PBXCp Fingersoft/Fingersoft.h build/Release-iphoneos/include/ANEFingersoft/Fingersoft.h    cd /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/Fingersoft.h /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/Release-iphoneos/include/ANEFingersoft36"6CBE3032-7D60-4015-A4E5-F09A53754622-
+bC86B336D-50B7-4B98-8ACE-A066106B8D0F
+
+CProcessPCH /var/folders/p4/yvrhr8x138dbcz1wf62vm63w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ANEFingersoft-Prefix-awoaegfcngpdezgwumvweqjtzpat/ANEFingersoft-Prefix.pch.pch Fingersoft/ANEFingersoft-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427990542.062733
+e427990542.282549
+r1
+xProcessPCH
+x/var/folders/p4/yvrhr8x138dbcz1wf62vm63w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ANEFingersoft-Prefix-awoaegfcngpdezgwumvweqjtzpat/ANEFingersoft-Prefix.pch.pch
+xFingersoft/ANEFingersoft-Prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/ANEFingersoft-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Precompile Fingersoft/ANEFingersoft-Prefix.pch313"ProcessPCH /var/folders/p4/yvrhr8x138dbcz1wf62vm63w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ANEFingersoft-Prefix-awoaegfcngpdezgwumvweqjtzpat/ANEFingersoft-Prefix.pch.pch Fingersoft/ANEFingersoft-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler0326100e9e82b941^605a480e9e82b941^---0#0#1#-19%DVTDocumentLocation2@112"file:///Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/ANEFingersoft-Prefix.pch0000000000000000^3913"ProcessPCH /var/folders/p4/yvrhr8x138dbcz1wf62vm63w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ANEFingersoft-Prefix-awoaegfcngpdezgwumvweqjtzpat/ANEFingersoft-Prefix.pch.pch Fingersoft/ANEFingersoft-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/ANEFingersoft-generated-files.hmap -I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/ANEFingersoft-own-target-headers.hmap -I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/ANEFingersoft-all-target-headers.hmap -iquote /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/ANEFingersoft-project-headers.hmap -iquote/Developer/sdks/AIRSDK/include -iquoteCrashlytics.Framework -I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/DerivedSources/armv7s -I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/DerivedSources -F/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/Release-iphoneos -F/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft --serialize-diagnostics /var/folders/p4/yvrhr8x138dbcz1wf62vm63w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ANEFingersoft-Prefix-awoaegfcngpdezgwumvweqjtzpat/ANEFingersoft-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/p4/yvrhr8x138dbcz1wf62vm63w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ANEFingersoft-Prefix-awoaegfcngpdezgwumvweqjtzpat/ANEFingersoft-Prefix.pch.d -c /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/ANEFingersoft-Prefix.pch -o /var/folders/p4/yvrhr8x138dbcz1wf62vm63w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ANEFingersoft-Prefix-awoaegfcngpdezgwumvweqjtzpat/ANEFingersoft-Prefix.pch.pch36"E7477297-8CB0-4504-905C-C99A0FAA992B-
+bC86B336D-50B7-4B98-8ACE-A066106B8D0F
+
+CProcessPCH /var/folders/p4/yvrhr8x138dbcz1wf62vm63w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ANEFingersoft-Prefix-cymgpaoufepxmtbwkipeqfcxqedb/ANEFingersoft-Prefix.pch.pch Fingersoft/ANEFingersoft-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427990542.062918
+e427990542.274690
+r1
+xProcessPCH
+x/var/folders/p4/yvrhr8x138dbcz1wf62vm63w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ANEFingersoft-Prefix-cymgpaoufepxmtbwkipeqfcxqedb/ANEFingersoft-Prefix.pch.pch
+xFingersoft/ANEFingersoft-Prefix.pch
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/ANEFingersoft-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Precompile Fingersoft/ANEFingersoft-Prefix.pch312"ProcessPCH /var/folders/p4/yvrhr8x138dbcz1wf62vm63w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ANEFingersoft-Prefix-cymgpaoufepxmtbwkipeqfcxqedb/ANEFingersoft-Prefix.pch.pch Fingersoft/ANEFingersoft-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilerfa27100e9e82b941^f451460e9e82b941^---0#0#1#-19%DVTDocumentLocation2@112"file:///Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/ANEFingersoft-Prefix.pch0000000000000000^3907"ProcessPCH /var/folders/p4/yvrhr8x138dbcz1wf62vm63w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ANEFingersoft-Prefix-cymgpaoufepxmtbwkipeqfcxqedb/ANEFingersoft-Prefix.pch.pch Fingersoft/ANEFingersoft-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/ANEFingersoft-generated-files.hmap -I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/ANEFingersoft-own-target-headers.hmap -I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/ANEFingersoft-all-target-headers.hmap -iquote /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/ANEFingersoft-project-headers.hmap -iquote/Developer/sdks/AIRSDK/include -iquoteCrashlytics.Framework -I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/DerivedSources/arm64 -I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/DerivedSources -F/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/Release-iphoneos -F/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft --serialize-diagnostics /var/folders/p4/yvrhr8x138dbcz1wf62vm63w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ANEFingersoft-Prefix-cymgpaoufepxmtbwkipeqfcxqedb/ANEFingersoft-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/p4/yvrhr8x138dbcz1wf62vm63w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ANEFingersoft-Prefix-cymgpaoufepxmtbwkipeqfcxqedb/ANEFingersoft-Prefix.pch.d -c /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/ANEFingersoft-Prefix.pch -o /var/folders/p4/yvrhr8x138dbcz1wf62vm63w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ANEFingersoft-Prefix-cymgpaoufepxmtbwkipeqfcxqedb/ANEFingersoft-Prefix.pch.pch36"303E026C-591C-43D2-BFF7-13EE1AD57776-
+bC86B336D-50B7-4B98-8ACE-A066106B8D0F
+
+CProcessPCH /var/folders/p4/yvrhr8x138dbcz1wf62vm63w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ANEFingersoft-Prefix-dbanxryzxgcrwtcmkmtrzezolypc/ANEFingersoft-Prefix.pch.pch Fingersoft/ANEFingersoft-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427990542.062494
+e427990542.282522
+r1
+xProcessPCH
+x/var/folders/p4/yvrhr8x138dbcz1wf62vm63w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ANEFingersoft-Prefix-dbanxryzxgcrwtcmkmtrzezolypc/ANEFingersoft-Prefix.pch.pch
+xFingersoft/ANEFingersoft-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/ANEFingersoft-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Precompile Fingersoft/ANEFingersoft-Prefix.pch312"ProcessPCH /var/folders/p4/yvrhr8x138dbcz1wf62vm63w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ANEFingersoft-Prefix-dbanxryzxgcrwtcmkmtrzezolypc/ANEFingersoft-Prefix.pch.pch Fingersoft/ANEFingersoft-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler2925100e9e82b941^3754480e9e82b941^---0#0#1#-19%DVTDocumentLocation2@112"file:///Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/ANEFingersoft-Prefix.pch0000000000000000^3910"ProcessPCH /var/folders/p4/yvrhr8x138dbcz1wf62vm63w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ANEFingersoft-Prefix-dbanxryzxgcrwtcmkmtrzezolypc/ANEFingersoft-Prefix.pch.pch Fingersoft/ANEFingersoft-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/ANEFingersoft-generated-files.hmap -I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/ANEFingersoft-own-target-headers.hmap -I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/ANEFingersoft-all-target-headers.hmap -iquote /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/ANEFingersoft-project-headers.hmap -iquote/Developer/sdks/AIRSDK/include -iquoteCrashlytics.Framework -I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/DerivedSources/armv7 -I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/ANEFingersoft.build/Release-iphoneos/ANEFingersoft.build/DerivedSources -F/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/build/Release-iphoneos -F/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft --serialize-diagnostics /var/folders/p4/yvrhr8x138dbcz1wf62vm63w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ANEFingersoft-Prefix-dbanxryzxgcrwtcmkmtrzezolypc/ANEFingersoft-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/p4/yvrhr8x138dbcz1wf62vm63w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ANEFingersoft-Prefix-dbanxryzxgcrwtcmkmtrzezolypc/ANEFingersoft-Prefix.pch.d -c /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Fingersoft/ANEFingersoft-Prefix.pch -o /var/folders/p4/yvrhr8x138dbcz1wf62vm63w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ANEFingersoft-Prefix-dbanxryzxgcrwtcmkmtrzezolypc/ANEFingersoft-Prefix.pch.pch36"9DD9E87A-539F-4992-8A38-C2F3B5DC9422-
+bC86B336D-50B7-4B98-8ACE-A066106B8D0F
+

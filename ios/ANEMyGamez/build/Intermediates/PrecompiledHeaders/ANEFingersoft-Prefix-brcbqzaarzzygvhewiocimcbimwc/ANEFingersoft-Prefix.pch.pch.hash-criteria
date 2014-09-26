@@ -1,0 +1,29 @@
+Contents of /Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/GooglePlay/ANEFingersoft-Prefix.pch
+-x
+objective-c
+-arch
+x86_64
+-std=gnu99
+-fpascal-strings
+-O0
+-DDEBUG=1
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+-fexceptions
+-fasm-blocks
+-g
+-fobjc-abi-version=2
+-fobjc-legacy-dispatch
+-mios-simulator-version-min=4.3
+-iquote
+-iquote
+-iquote/Developer/sdks/AIRSDK/include
+-iquoteCrashlytics.Framework
+-I/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Debug-iphonesimulator/include
+-I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include
+-F/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft/Build/Debug-iphonesimulator
+-F/Developer/repos/git/frameworks/ANEs/ANE_Fingersoft/ios/ANEFingersoft
+x86_64-apple-darwin13.3.0
+"4.2.1 Compatible Apple LLVM 5.1 (clang-503.0.40)"
+SDK_PRODUCT_BUILD_VERSION=11D167
+11D167

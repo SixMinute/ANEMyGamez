@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<application xmlns="http://ns.adobe.com/air/application/14.0">
+	<id>com.sixminute.pickapet.debug</id>
+	<filename>ANEAnalyticsTest</filename>
+	<name>ANEAnalyticsTest-debug</name>
+	<versionNumber>1.0.0</versionNumber>
+	<initialWindow>
+		<content>ANEAnalyticsTest.swf</content>
+	<visible>true</visible>
+    </initialWindow>
+
+	<android>
+        <manifestAdditions><![CDATA[
+			<manifest android:installLocation="auto">
+			    <uses-permission android:name="android.permission.INTERNET"/>
+			    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+			    
+				<application
+            		android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen"
+            		android:enabled="true"
+            		android:debuggable="true"
+            		>
+			        <!-- AD SDK: MobFox -->
+			        <activity android:name="com.adsdk.sdk.banner.InAppWebView"
+			                  android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"/>       
+			        
+			        <!-- AD SDK: Admob -->
+			        <activity android:name="com.google.ads.AdActivity"
+			                  android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"/>
+			        
+			        <!-- AD SDK: Madvertise (use "TestTokn" for testing) -->
+			        <activity android:name="de.madvertise.android.sdk.MadvertiseActivity"/>
+			        <meta-data android:value="hft24tZS" android:name="madvertise_site_token" />
+			                
+			        <!-- AD SDK: MoPub -->
+			        <activity android:name="com.mopub.mobileads.MoPubActivity" android:configChanges="keyboardHidden|orientation"/>
+			        <activity android:name="com.mopub.mobileads.MraidActivity" android:configChanges="keyboardHidden|orientation"/>
+			        <activity android:name="com.mopub.mobileads.MraidBrowser" android:configChanges="keyboardHidden|orientation"/>
+			        
+					<!-- AD SDK: Millenial -->
+			        <activity android:name="com.millennialmedia.android.MMActivity"
+			                    android:theme="@android:style/Theme.Translucent.NoTitleBar" 
+			                    android:configChanges="keyboardHidden|orientation|keyboard" ></activity>
+			
+			        <activity android:name="com.millennialmedia.android.VideoPlayer"
+			                    android:configChanges="keyboardHidden|orientation|keyboard" ></activity>
+			      
+			        <!-- AD SDK: InMobi -->
+			        <activity android:name="com.inmobi.androidsdk.IMBrowserActivity"
+			            android:configChanges="keyboardHidden|orientation|keyboard|smallestScreenSize|screenSize"
+			            android:hardwareAccelerated="true" />
+			       	<service android:enabled="true" android:name="com.inmobi.commons.internal.ActivityRecognitionManager" />
+	                
+				</application>
+			</manifest>
+		]]></manifestAdditions>
+    </android>
+	
+	
+<extensions>
+        <extensionID>com.sixminute.ane.ANEAnalytics</extensionID>
+    </extensions>
+</application>
